@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/runWithMe.iml" filepath="$PROJECT_DIR$/.idea/runWithMe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rwm-pc.iml" filepath="$PROJECT_DIR$/rwm-pc.iml" />
     </modules>
   </component>
 </project>

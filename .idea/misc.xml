@@ -9,6 +9,7 @@
       <list>
         <option value="$PROJECT_DIR$/rwm-api/pom.xml" />
         <option value="$PROJECT_DIR$/rwm-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/rwm-web/pom.xml" />
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
